@@ -1,2 +1,1 @@
-# Current-Stack
-que haces actualmente
+A ctualemte estoy aprendi comos ser una desarrolladora full stack
